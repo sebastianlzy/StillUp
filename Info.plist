@@ -5,6 +5,7 @@
     <key>CFBundleExecutable</key><string>StillUp</string>
     <key>CFBundleIdentifier</key><string>local.stillup</string>
     <key>CFBundleName</key><string>StillUp</string>
+    <key>CFBundleIconFile</key><string>StillUp.icns</string>
     <key>CFBundlePackageType</key><string>APPL</string>
     <key>CFBundleVersion</key><string>1</string>
     <key>CFBundleShortVersionString</key><string>1.0</string>
